@@ -1,0 +1,12 @@
+bson
+discord.py
+pymongo
+asyncio
+async_timeout
+aiohttp
+requests
+pillow
+psutil
+youtube_dl
+websockets
+PYFIGLET
