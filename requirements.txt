@@ -10,3 +10,13 @@ psutil
 youtube_dl
 websockets
 PYFIGLET
+requests
+
+asyncio
+
+https://github.com/Nekos-life/nekos.py/archive/master.zip
+
+request
+
+
+
