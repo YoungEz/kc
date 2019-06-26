@@ -1,5 +1,5 @@
 bson
-discord.py
+discord.py[voice]
 pymongo
 asyncio
 async_timeout
